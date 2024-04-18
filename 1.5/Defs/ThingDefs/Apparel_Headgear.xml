@@ -157,7 +157,6 @@
 				<li>Eyes</li>
 			</bodyPartGroups>
 			<wornGraphicPath>Things/Apparel/CE_BallisticGoggles/BallisticGoggles</wornGraphicPath>
-			<hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
 			<layers>
 				<li>StrappedHead</li>
 			</layers>
